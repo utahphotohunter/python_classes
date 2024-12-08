@@ -1,6 +1,6 @@
 # python_classes
 
-*send_message.py*<br>
+**send_message.py**<br>
 you will need the following imports:<br>
 import pywhatkit<br>
 from datetime import datetime<br>
